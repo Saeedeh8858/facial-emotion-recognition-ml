@@ -109,6 +109,12 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn gradio
 4. **Launch the Gradio UI**
     - Run the Gradio cell to start the web demo.
 
+## Acknowledgements
+
+Special thanks to [Prof. Dr. Raja Hashim Ali ](https://www.linkedin.com/in/raja-hashim-ali-b2505928/)  
+University of Europe for Applied Sciences, for guidance and supervision.
+
+
 ## References
 
 - [FER2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
