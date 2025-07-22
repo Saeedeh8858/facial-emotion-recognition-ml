@@ -121,6 +121,7 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn gradio
 
 - [Kaggle Notebook] (https://www.kaggle.com/code/saeedehalamkarue/facialemotion/edit/run/248024406)
 - [Overleaf Paper] (https://www.overleaf.com/project/683dbab3c468d49a931006f0)
+- [Overleaf PDf]
 
 **Author:**  
 Saeedeh Alamkar
